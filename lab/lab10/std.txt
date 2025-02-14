@@ -1,0 +1,5 @@
+Name	 Address	 Roll no	 age	 Physics	 C	 Math	 Average
+shaswat 	pokhara	 36	 18	 90.00	 90.00	 90.00	 90.00
+ asdada 	dsadad	 23	 23	 23.00	 60.00	 30.00	 37.67
+ sdfsfsf 	sdfsddfsdf	 23	 32	 56.00	 56.00	 56.00	 56.00
+ 

@@ -1,1 +1,12 @@
 helloooo
+
+
+git add .
+
+git commit -m "Added pattern1 files and testing.txt"
+
+
+git push
+
+(Get-ChildItem -Path . -Recurse -Filter "*.c" | Measure-Object).Count
+helloooo
